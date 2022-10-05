@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169047432390",
+    "project_id": "share-stuff-8ac40",
+    "storage_bucket": "share-stuff-8ac40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169047432390:android:fcde123c843f5c57e48bc7",
+        "android_client_info": {
+          "package_name": "com.cuongjp.share_stuff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169047432390-b22bvk548i7h3k1hgshs27agtboaedfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWdKuz2XLZhisx_jGn1fiawsJPFmBdMvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169047432390-b22bvk548i7h3k1hgshs27agtboaedfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
